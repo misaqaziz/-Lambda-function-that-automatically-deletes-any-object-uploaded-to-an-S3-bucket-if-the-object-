@@ -1,0 +1,1 @@
+# -Lambda-function-that-automatically-deletes-any-object-uploaded-to-an-S3-bucket-if-the-object-
