@@ -1,0 +1,8 @@
+{
+  "Effect": "Allow",
+  "Action": [
+    "s3:GetObjectTagging",
+    "s3:DeleteObject"
+  ],
+  "Resource": "arn:aws:s3:::YOUR_BUCKET_NAME/*"
+}
